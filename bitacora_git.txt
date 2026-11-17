@@ -30,7 +30,7 @@ Diferencia entre git clone y git pull: git clone descarga un repositorio por pri
 ETAPA OPCIONAL. MEJORA MEDIANTE UNA RAMA
 (Completar SOLO si el profesorado propone el extra)
 --------------------------------------------------
-Una recomendación para trabajar en equipo con Git: PENDIENTE
+Una recomendación para trabajar en equipo con Git: Introducir la función pull antes de actualizar.
 
 --------------------------------------------------
 REGLAS
