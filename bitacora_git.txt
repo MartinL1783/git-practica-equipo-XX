@@ -15,8 +15,8 @@ Una ventaja de utilizar control de versiones: Saber que hizo cada uno
 ETAPA 2. SEGUNDO COMMIT — ALUMNO/A A
 (Completar SOLO después de que B haya clonado)
 --------------------------------------------------
-Un cambio que quiero poder recuperar con Git: PENDIENTE
-Ejemplo de un buen mensaje de commit: PENDIENTE
+Un cambio que quiero poder recuperar con Git: El código que había hecho antes de probar algo nuevo y que me saliera error
+Ejemplo de un buen mensaje de commit: Añadir información ventas 2026 
 
 --------------------------------------------------
 ETAPA 3. TERCER COMMIT — ALUMNO/A B
