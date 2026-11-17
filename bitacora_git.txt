@@ -1,0 +1,42 @@
+PRÁCTICA DE GIT Y GITHUB EN PAREJAS
+================================
+
+Equipo: PENDIENTE
+Repositorio en GitHub: PENDIENTE
+
+--------------------------------------------------
+ETAPA 1. PRIMER COMMIT — ALUMNO/A A
+--------------------------------------------------
+Nombre del alumno/a A: Martin Larrea
+Objetivo del equipo: Aprender a usar Git
+Una ventaja de utilizar control de versiones: Saber que hizo cada uno
+
+--------------------------------------------------
+ETAPA 2. SEGUNDO COMMIT — ALUMNO/A A
+(Completar SOLO después de que B haya clonado)
+--------------------------------------------------
+Un cambio que quiero poder recuperar con Git: PENDIENTE
+Ejemplo de un buen mensaje de commit: PENDIENTE
+
+--------------------------------------------------
+ETAPA 3. TERCER COMMIT — ALUMNO/A B
+(Completar SOLO después de ejecutar git pull)
+--------------------------------------------------
+Nombre del alumno/a B: PENDIENTE
+Diferencia entre git clone y git pull: PENDIENTE
+¿Qué hacen git add, git commit y git push?: PENDIENTE
+
+--------------------------------------------------
+ETAPA OPCIONAL. MEJORA MEDIANTE UNA RAMA
+(Completar SOLO si el profesorado propone el extra)
+--------------------------------------------------
+Una recomendación para trabajar en equipo con Git: PENDIENTE
+
+--------------------------------------------------
+REGLAS
+--------------------------------------------------
+1. No borrar apartados que haya completado la otra persona.
+2. No modificar simultáneamente este fichero.
+3. Guardar los cambios antes de ejecutar git add.
+4. Escribir mensajes de commit que describan qué se ha cambiado.
+5. No introducir contraseñas, tokens ni datos personales sensibles.
