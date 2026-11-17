@@ -22,9 +22,9 @@ Ejemplo de un buen mensaje de commit: Añadir información ventas 2026
 ETAPA 3. TERCER COMMIT — ALUMNO/A B
 (Completar SOLO después de ejecutar git pull)
 --------------------------------------------------
-Nombre del alumno/a B: PENDIENTE
-Diferencia entre git clone y git pull: PENDIENTE
-¿Qué hacen git add, git commit y git push?: PENDIENTE
+Nombre del alumno/a B: Andrés Guerrero Oca
+Diferencia entre git clone y git pull: git clone descarga un repositorio por primera vez; git pull actualiza el que ya tienes descargado.
+¿Qué hacen git add, git commit y git push?: git add: prepara los archivos modificados para guardarlos, git commit: guarda los cambios en el historial local y git push: sube los cambios a GitHub para compartirlos con tus compañeros.
 
 --------------------------------------------------
 ETAPA OPCIONAL. MEJORA MEDIANTE UNA RAMA
